@@ -1,0 +1,13 @@
+# 统一换行符，避免 Windows 上每次 add 都刷 warning
+* text=auto
+
+# 二进制文件不要做文本转换
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.webp binary
+*.pdf binary
+*.zip binary
+*.gz binary
