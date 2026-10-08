@@ -1,4 +1,4 @@
-# poe2-tailor · 流亡裁缝
+# poe2-tailor · POE2 裁缝
 
 《流放之路 2》(Path of Exile 2) 的辅助工具。
 
